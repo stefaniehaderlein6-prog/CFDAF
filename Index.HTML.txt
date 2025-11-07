@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apply for Support | CFDAF</title>
+  <style>
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      background: #fafafa;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .apply-page {
+      max-width: 850px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 2.5rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+      margin-top: 2rem;
+      margin-bottom: 3rem;
+    }
+    h1, h2, h3 {
+      color: #0078d7;
+    }
+    h1 {
+      text-align: center;
+      color: #005ea2;
+      margin-bottom: 2rem;
+    }
+    h2 {
+      border-bottom: 2px solid #0078d7;
+      padding-bottom: 0.4rem;
+      margin-top: 2rem;
+    }
+    p, li {
+      line-height: 1.6;
+    }
+    ul, ol {
+      margin-left: 1.5rem;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 2rem 0;
+    }
+    strong {
+      color: #111;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="apply-page">
+    <h1>Apply for CFDAF Support</h1>
+
+    <section id="who-we-support">
+      <h2>Who We Support</h2>
+      <p>
+        We provide direct financial assistance to individuals facing genuine hardship, including the disabled,
+        unemployed, students, workers, retired individuals, low-income earners, young adults, and older citizens
+        across the USA, UK, and Canada.
+      </p>
+    </section>
+
+    <hr>
+
+    <section id="eligibility-requirements">
+      <h2>Eligibility Requirements</h2>
+      <p>To qualify for CFDAF support, you must:</p>
+      <ul>
+        <li>Be 18 years or older</li>
+        <li>Live in the USA, UK, or Canada</li>
+        <li>Be experiencing financial hardship</li>
+        <li>Fall into at least one support category: Disabled, Unemployed, Student, Worker, Retired, Low-Income Earner</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="what-you-need">
+      <h2>What You’ll Need</h2>
+      <p>Please prepare the following for your application:</p>
+      <ul>
+        <li>Valid government-issued ID</li>
+        <li>Proof of address (utility bill, bank statement, etc.)</li>
+        <li>Recent photo</li>
+        <li>Brief explanation of your current financial situation</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="how-it-works">
+      <h2>How the Process Works</h2>
+      <p>Our process is simple, safe, and transparent:</p>
+      <ol>
+        <li>Check Eligibility</li>
+        <li>Complete Application Form</li>
+        <li>Submit Documents</li>
+        <li>Verification Call</li>
+        <li>Secure Verification (Fee / Micro-Deposit / KYC)</li>
+        <li>Approval Notification</li>
+        <li>Cash Disbursement</li>
+        <li>Confirmation & Receipt</li>
+      </ol>
+    </section>
+
+    <hr>
+
+    <section id="verification-security">
+      <h2>Verification & Security</h2>
+      <p>
+        To protect applicants and CFDAF from fraud, a secure identity or bank verification step is required before
+        funds are released. This may include:
+      </p>
+      <ul>
+        <li>A small refundable Admin Verification Fee</li>
+        <li>Bank micro-deposit verification (no fee)</li>
+        <li>KYC identity check</li>
+        <li>Fee waiver for applicants who cannot pay</li>
+      </ul>
+      <p>This ensures funds go to the rightful person safely.</p>
+    </section>
+
+    <hr>
+
+    <section id="admin-verification-fee">
+      <h2>Admin Verification Fee</h2>
+      <p>
+        In some cases, applicants may be asked to complete a small refundable Admin Verification Fee to finalize
+        identity and payment verification.
+      </p>
+      <ul>
+        <li>Fully refundable at disbursement or if the application is denied</li>
+        <li>Low-cost ($5–$20 or local equivalent)</li>
+        <li>Fee waivers available for those unable to pay</li>
+        <li>Secure payments only (no gift cards, crypto, or cash apps)</li>
+      </ul>
+      <p><strong>➤ CFDAF will never ask for gift cards or codes.</strong></p>
+    </section>
+
+    <hr>
+
+    <section id="benefit-amounts">
+      <h2>Benefit Amounts</h2>
+      <p>Support amounts vary based on need, category, household size, and available funding:</p>
+      <ul>
+        <li>Emergency Relief: $100 – $1,000</li>
+        <li>Family / Household Support: $250 – $2,000</li>
+        <li>Students: $100 – $600</li>
+        <li>Persons with Disabilities: $300 – $1,500</li>
+        <li>Retirees / Elderly Support: $100 – $1,000</li>
+        <li>Unemployment Transition Support: $150 – $1,200</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="after-you-apply">
+      <h2>After You Apply</h2>
+      <p>Once your application is submitted:</p>
+      <ul>
+        <li>You will receive a “Pending Review” notification</li>
+        <li>A CFDAF team member will contact you for a verification call</li>
+        <li>If approved, you will receive a “Final Approval” message and disbursement details</li>
+        <li>Cash support will be released directly to you</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="pending-verification">
+      <h2>Pending Verification Notice</h2>
+      <h3>Your Application is Pending Verification</h3>
+      <p>
+        Your application has been received. Before funds are released, we must complete a secure identity and payment
+        verification step to protect your safety. You may be asked to:
+      </p>
+      <ul>
+        <li>Complete a short verification call</li>
+        <li>Confirm bank account ownership via micro-deposit</li>
+        <li>Pay a small refundable Admin Verification Fee, or request a fee waiver</li>
+      </ul>
+      <p>
+        Once verification is completed and approved, your funds will be released in cash.<br><br>
+        <strong>CFDAF will NEVER request gift cards, codes, or cryptocurrency to activate or release funds.</strong>
+      </p>
+    </section>
+
+    <hr>
+
+    <section id="anti-scam-warning">
+      <h2>Anti-Scam Warning</h2>
+      <p><strong>For your protection:</strong></p>
+      <ul>
+        <li>✅ We do not require gift cards of any kind</li>
+        <li>✅ We do not charge application or processing fees</li>
+        <li>❗ Any person asking for gift cards, codes, or “clearance fees” is a scammer</li>
+      </ul>
+      <p>Report suspicious activity to CFDAF immediately.</p>
+    </section>
+
+    <hr>
+
+    <section id="real-life-examples">
+      <h2>Real-Life Examples of Who Can Qualify</h2>
+      <ul>
+        <li><strong>Student Example:</strong> A student who recently lost a part-time job and cannot afford basic living needs.</li>
+        <li><strong>Disabled Worker Example:</strong> A part-time worker living with a disability facing medical or mobility expenses.</li>
+        <li><strong>Retiree Example:</strong> A senior citizen on a fixed income struggling to cover essential bills or emergency costs.</li>
+        <li><strong>Unemployed Parent Example:</strong> A parent who recently lost their job and needs temporary support for essentials.</li>
+      </ul>
+    </section>
+
+  </div>
+
+</body>
+</html>
